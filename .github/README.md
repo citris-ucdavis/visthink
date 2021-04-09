@@ -1,6 +1,6 @@
 ﻿# Visual Thinking Toolkit
 
-<p align="center"><img src="https://raw.githubusercontent.com/citris-ucdavis/visualthinking/master/.github/visualthinking.jpg" width="480"></p>
+<p align="center"><img src="http://t-s.net/tmp/visthink/visualthinking.jpg" width="480"></p>
 
 The CITRIS UC Davis Visual Thinking Toolkit facilitates the creation of interactive VR "visual thinking" puzzles. It is based on the widely used Unity application framework, and currently supports the Oculus Quest VR headset.
 
