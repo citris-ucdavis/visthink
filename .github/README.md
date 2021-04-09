@@ -11,3 +11,5 @@ CITRIS UC Davis has also created a few example Visual Thinking puzzles (one base
  - [Folded Pattern](https://github.com/citris-ucdavis/foldedpattern)
  - [Rotating Dice](https://github.com/citris-ucdavis/rotatingdice)
  - [Nine Dots](https://github.com/citris-ucdavis/ninedots)
+
+For more information, see the documentation and guides in [docs/](https://github.com/citris-ucdavis/visthink/tree/master/docs) directory.
